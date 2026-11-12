@@ -19,7 +19,7 @@ A simple command-line to-do list written in Python. You can add, view, complete,
 
 ```text
 to-do-app/
-├── to_do.py
+├── todo_list.py
 └── README.md
 ```
 
@@ -30,7 +30,7 @@ to-do-app/
 1. Make sure **Python 3** is installed on your computer.
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/sandipbeghaa/to-do-app
    ```
 3. Open the folder and run the script:
    ```bash
