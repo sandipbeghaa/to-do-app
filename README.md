@@ -35,7 +35,7 @@ to-do-app/
 3. Open the folder and run the script:
    ```bash
    cd to-do-app
-   python to_do.py
+   python todo_list.py
    ```
 
 ## Example Usage
